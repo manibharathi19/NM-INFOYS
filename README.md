@@ -6,4 +6,4 @@ Detailed Explanation is given as comments side by side in the codes.
 
 ![](Images/Calculator%20Image.png)
 
-Created By :- Nihit Saha
+Created By :- Mani bharathi
